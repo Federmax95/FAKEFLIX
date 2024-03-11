@@ -1,5 +1,5 @@
 # FAKEFLIX
-This is an example of streaming app, for obviosly reason i cannot publicate the code of this app.
+This is an example of streaming app,completely build in python, for obviosly reason i cannot publicate the code of this app.
 <br/><br/>
 ![FAKEFLIX](https://github.com/Federmax95/FAKEFLIX/assets/156188153/99a1f19c-5141-4223-af00-0111063d8d02)
 
